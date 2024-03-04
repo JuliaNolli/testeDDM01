@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Julia Eduarda Noli</Text>
       <Text>Ana Clara de Andrade</Text>
+      <Text>Clone do projeto aula 04-03-2024 3B3 Lado A</Text>
       <StatusBar style="auto" />
     </View>
   );
