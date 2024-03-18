@@ -1,10 +1,10 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Button } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 
-export default function App() {
+export default function Julia() {
   return (
     <View style={styles.container}>
-    <Julia/>
+      <Text>Julia Eduarda Noli</Text>
+      <StatusBar style="auto" />
     </View>
   );
 }

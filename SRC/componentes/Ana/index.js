@@ -1,10 +1,10 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Button } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 
-export default function App() {
+export default function Ana() {
   return (
     <View style={styles.container}>
-    <Julia/>
+      <Text>Ana Clara de Andrade</Text>
+      <StatusBar style="auto" />
     </View>
   );
 }
