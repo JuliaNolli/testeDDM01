@@ -1,4 +1,5 @@
-import { StyleSheet, Text, View } from 'react-native';
+import react from 'react';
+import { View , Text } from 'react-native';
 
 export default function Julia() {
   return (
@@ -17,3 +18,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   }, 
 });
+ 
